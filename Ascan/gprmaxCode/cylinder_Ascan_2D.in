@@ -1,0 +1,19 @@
+#title: one human and two metal cylinder behind the wall
+#domain: 6.000 6.000 0.004
+#dx_dy_dz: 0.004 0.004 0.004
+#time_window: 6e-8
+
+#material: 6.8 0.1 1 0 wall
+#material: 9 0.01 1 0 human
+
+#waveform: ricker 1 3e9 my_ricker
+#hertzian_dipole: z 0.900 0.100 0 my_ricker
+#hertzian_dipole: z 5.100 0.100 0 my_ricker
+#rx_array: 1.300 0.100 0 3.100 0.100 0 0.3 0 0
+
+#box: 0 0.1 0 6 0.2 0.004 wall
+#cylinder: 3.000 3.000 0 3.000 3.000 0.004 0.08 human
+#box: 1 4 0 1.1 4.1 0.004 pec
+#box: 5 4 0 5.1 4.1 0.004 pec
+
+#geometry_view: 0 0 0 6 6 0.004 0.004 0.004 0.004 behind_the_wall n

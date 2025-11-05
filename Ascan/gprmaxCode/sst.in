@@ -1,0 +1,18 @@
+#title: one human and one desk
+#domain: 2.000 8.000 0.002
+#dx_dy_dz: 0.002 0.002 0.002
+#time_window: 5e-8
+
+#material: 3 1 1 0 desk
+#material: 41.4 0.87 1 0 human
+
+#waveform: ricker 1 9e8 my_ricker1
+#waveform: ricker 1 1.8e9 my_ricker2
+#hertzian_dipole: z 0.500 1.000 0 my_ricker1
+#hertzian_dipole: z 1.500 1.000 0 my_ricker2
+#rx: 1.000 1.000 0
+
+#cylinder: 1.000 4.000 0 1.000 4.000 0.002 0.1 human
+#cylinder: 1.000 7.000 0 1.000 7.000 0.002 0.1 desk
+
+#geometry_view: 0 0 0 2 8 0.002 0.002 0.002 0.002 sst n
