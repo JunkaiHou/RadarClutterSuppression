@@ -5,7 +5,7 @@
 ## About Bats
 ### How Do Bats Distinguish Prey Target and Clutter?
 
-![Bats_Science](./论文数据图/Bats.png)
+![Bats_Science](./FiguresInPaper/Bats.png)
 
 - **By emitting signals of two different frequencies**
 - **By comparing the power ratio of the two frequencies of echo signals from each target**
