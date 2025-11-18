@@ -18,7 +18,8 @@
 **The ability of bats to effectively distinguish targets from clutter in a complicated natural environment is quite similar to that of radar detection in a complex indoor environment!**
 
 ## Equation Deduction
-According to the radar equation, the echo power of a single-frequency signal $P_r$ can be expressed as  
+According to the radar equation, 
+the echo power of a single-frequency signal $P_r$ can be expressed as  
 
 $$P_r = \frac{P_tG_tG_r\lambda^2\sigma_{RCS}}{(4\pi)^3R^4}$$  
 
