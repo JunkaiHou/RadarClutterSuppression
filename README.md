@@ -1,7 +1,9 @@
-# MIMICKING BATS' ECHOLOCATION: A BIOMIMETIC APPROACH FOR INDOOR HUMAN TARGET DETECTION
+# [Accepted by IET Internatioinal Radar Conference 2025]MIMICKING BATS' ECHOLOCATION: A BIOMIMETIC APPROACH FOR INDOOR HUMAN TARGET DETECTION
 
 **Junkai Hou, Chunpeng Lu, Hanbin Guo, Yuan He***
 
+[Paper](Paper_Junkai_Hou.pdf)
+[Poster](IET_Poster.pdf)
 ## About Bats
 ### How Do Bats Distinguish Prey Target and Clutter?
 
