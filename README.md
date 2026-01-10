@@ -1,4 +1,4 @@
-# [Accepted by IET Internatioinal Radar Conference 2025]MIMICKING BATS' ECHOLOCATION: A BIOMIMETIC APPROACH FOR INDOOR HUMAN TARGET DETECTION
+# [Accepted by IET International Radar Conference 2025]MIMICKING BATS' ECHOLOCATION: A BIOMIMETIC APPROACH FOR INDOOR HUMAN TARGET DETECTION
 
 **Junkai Hou, Chunpeng Lu, Hanbin Guo, Yuan He***
 
@@ -16,7 +16,7 @@
 
 At a certain moment, bat sonar **simultaneously emits multi-frequency point signals with a certain frequency difference**. Over time, a specific **multi-band nonlinear frequency-modulated** signal is formed.
 
-### About Antenna Gain
+## About Antenna Gain
 ![](./Figures/Antenna.png)
 
 The transmission and reception of multi-band signals require corresponding **radar antenna arrays** to be achieved. For different frequency components of multi-band signals, the main lobe width, side lobe amplitude, and beam dynamic scanning of the antenna beam all impose different requirements on the beamforming of the antenna array.
