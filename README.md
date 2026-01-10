@@ -18,6 +18,7 @@ At a certain moment, bat sonar **simultaneously emits multi-frequency point sign
 
 ### About Antenna Gain
 ![](./Figures/Antenna.png)
+
 The transmission and reception of multi-band signals require corresponding **radar antenna arrays** to be achieved. For different frequency components of multi-band signals, the main lobe width, side lobe amplitude, and beam dynamic scanning of the antenna beam all impose different requirements on the beamforming of the antenna array.
 ### The Similarity between Bats and Radar
 
