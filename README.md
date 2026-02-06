@@ -44,9 +44,12 @@ So
 $$P_{ratio}( \varepsilon _r ) =\frac{P_r( f_2,\varepsilon _r,\sigma _{cond} )}{P_r( f_1,\varepsilon _r,\sigma _{cond} )}=\frac{f_{1}^{2}\sigma _{RCS}( f_2,\varepsilon _r,\sigma _{cond} )}{f_{2}^{2}\sigma _{RCS}( f_1,\varepsilon _r,\sigma _{cond} )}$$
 
 
-## Intrinsic Power Ratio
+## Code Instruction
+```bash
+Ascan
+    run model_Ascan.py  -- Read .in file and run api function simulation
+    run fft.py          -- Fast Fourier Transform
+    run comparemax.py   -- Compare power ratio (mimicking bats' echolocation)
 
-- **Human: 4.46~4.57**
-- **Table Clutter: 2.54~2.74**
+```
 
-**Successfully Distinguished!**
